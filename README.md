@@ -25,5 +25,5 @@ cd installer
 - Non-Windows:
     python3 install.py
 ```
-4. fix mxnet installation by `pip install mxnet-cu90mkl --pre -U`
+4. fix mxnet installation to support opset 7 by `pip install mxnet-cu90==1.3.0b20180905 --pre -U`
 4. to open .ipynb files `ipython notebook`
