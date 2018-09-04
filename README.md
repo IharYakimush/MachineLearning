@@ -25,3 +25,5 @@ cd installer
 - Non-Windows:
     python3 install.py
 ```
+
+4. ipython notebook
